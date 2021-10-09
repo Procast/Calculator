@@ -60,3 +60,10 @@ body {
 .symbol-color{
     background-color: rgb(146, 130, 238);
 }
+
+#author{
+    position:absolute;
+    bottom:0;
+    right:0;
+    font-size: xx-large;
+}
